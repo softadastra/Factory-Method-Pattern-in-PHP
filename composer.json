@@ -1,0 +1,15 @@
+{
+    "name": "adastra/design",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Adastra\\Design\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gaspard kirira"
+        }
+    ],
+    "require": {}
+}
